@@ -35,11 +35,11 @@ const Contact = () => {
                 {/* links */}
                 <div className="flex gap-1 items-center">
                   <img src={require("./imgs/Discord.png")} alt="" />
-                  <span className="text-[#ABB2BF]">!Elias#3519</span>
+                  <span className="text-[#ABB2BF]">!Manish Kumar#3519</span>
                 </div>
                 <div className="flex gap-1 items-center">
                   <img src={require("./imgs/Email.png")} alt="" />
-                  <span className="text-[#ABB2BF]">elias@elias.me</span>
+                  <span className="text-[#ABB2BF]">Manish Kumar@Manish Kumar.me</span>
                 </div>
               </div>
             </div>

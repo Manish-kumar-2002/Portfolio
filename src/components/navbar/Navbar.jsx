@@ -17,7 +17,7 @@ const Navbar = () => {
             <div className="img">
               <img src={require("./imgs/Logo.png")} alt="" />
             </div>
-            Elias
+            Manish Kumar
           </div>
           <div className="right flex items-center">
             <div
